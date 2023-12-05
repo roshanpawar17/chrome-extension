@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    padding: 10px;
+    min-width: 400px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+input:focus{
+    outline: none;
+}
+
+
+button{
+    background-color: #5f9341;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 10px;
+}
+
+
+ul li{
+    /* border: 1px solid red; */
+    margin: 10px 0px;
+    /* list-style-type: disc; */
+    
+}
+
+li a{
+    color: green;
+}
