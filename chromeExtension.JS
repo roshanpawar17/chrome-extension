@@ -32,7 +32,7 @@ function renderList(){
     const leadsFromLocalStorage = localStorage.getItem("myLeads")
     if(leadsFromLocalStorage != null){
         myLeads = JSON.parse(leadsFromLocalStorage)
-        console.log(myLeads)
+        //console.log(myLeads)
     }
 
     listItems = ""
