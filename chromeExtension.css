@@ -29,8 +29,14 @@ button{
     font-weight: bold;
     border: none;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 
+#delete-input-btn{
+    background-color: white;
+    color: green;
+    border: 1px solid green;
+}
 
 ul li{
     /* border: 1px solid red; */
