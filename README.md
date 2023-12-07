@@ -8,6 +8,9 @@ The Chrome Extension - Link Saver is a simple utility that allows users to save 
 
 Begin by cloning the extension's repository from the designated source. This can be accomplished using your preferred version control tool or by downloading the ZIP archive.
 
+paste command on git
+using command - git clone https://github.com/roshanpawar17/chrome-extension.git
+
 2. Access Chrome Extension Management:
 
 Open your Chrome browser and navigate to the three dots in the top-right corner to access the Chrome menu.
