@@ -1,6 +1,7 @@
 # Project Name: Chrome Extension - Link Saver
 
-# Description:
+Description:
+
 The Chrome Extension - Link Saver is a simple utility that allows users to save website links directly from their Chrome browser. Follow these easy steps to set up and use the extension:
 
 1. Clone the Repository:
